@@ -24,7 +24,7 @@
   "ttl": true,
   "ip_set": true,
   "unicode": true,
-  "ntsync": false,
+  "ntsync": true,
   "blacklist_modules": "",
   "uname": "11-o-g5cdab3b518c1",
   "ktimestamp": "Fri Dec  5 02:05:55 UTC 2025"
