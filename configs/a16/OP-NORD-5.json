@@ -17,7 +17,7 @@
   "NMS": true,
   "stock_config": false,
   "opt": false,
-  "ds": false,
+  "ds": true,
   "bbg": true,
   "bbr": true,
   "bbr3": true,
