@@ -4,6 +4,8 @@
 
 ### A custom OnePlus kernel + a **mountless** hiding add-on
 
+**English** | [简体中文](README_zh.md)
+
 *Automated AnyKernel3 builds for dozens of OnePlus models, with `KernelSU Next` root and **NoMount** hookless VFS redirection baked in.*
 
 [![Latest Release](https://img.shields.io/github/v/release/Bouteillepleine/OnePlus-KsuNext_NMS?style=for-the-badge&logo=github&label=Latest%20Release&color=6C4AB6)](https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/releases/latest)
@@ -64,11 +66,11 @@ redirection inside the kernel:
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/NoMount/docs/screenshots/status.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/NoMount/docs/screenshots/status.jpg" width="155" alt="Status"></a></td>
-    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/NoMount/docs/screenshots/hiding.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/NoMount/docs/screenshots/hiding.jpg" width="155" alt="Hiding"></a></td>
-    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/NoMount/docs/screenshots/rules.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/NoMount/docs/screenshots/rules.jpg" width="155" alt="Rules"></a></td>
-    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/NoMount/docs/screenshots/diagnostics.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/NoMount/docs/screenshots/diagnostics.jpg" width="155" alt="Checks"></a></td>
-    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/NoMount/docs/screenshots/duckdetector.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/NoMount/docs/screenshots/duckdetector.jpg" width="155" alt="Duck Detector"></a></td>
+    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/master/docs/screenshots/status.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/master/docs/screenshots/status.jpg" width="155" alt="Status"></a></td>
+    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/master/docs/screenshots/hiding.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/master/docs/screenshots/hiding.jpg" width="155" alt="Hiding"></a></td>
+    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/master/docs/screenshots/rules.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/master/docs/screenshots/rules.jpg" width="155" alt="Rules"></a></td>
+    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/master/docs/screenshots/diagnostics.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/master/docs/screenshots/diagnostics.jpg" width="155" alt="Checks"></a></td>
+    <td align="center"><a href="https://github.com/Bouteillepleine/OnePlus-KsuNext_NMS/blob/master/docs/screenshots/duckdetector.jpg"><img src="https://raw.githubusercontent.com/Bouteillepleine/OnePlus-KsuNext_NMS/master/docs/screenshots/duckdetector.jpg" width="155" alt="Duck Detector"></a></td>
   </tr>
   <tr>
     <td align="center"><sub><b>Status</b></sub></td>
